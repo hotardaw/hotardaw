@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hotardaw!
+- Hi, I’m @hotardaw, an EVM smart contract developer!
 - I’m interested in building a future in decentralized financial products in blockchain.
 - I’m currently learning Solidity and Node.js, utilizing the Ethers.js library within Hardhat
 - I’m looking to work on DApps in the gaming/finance sector that will pave the way for the applications of the future.
